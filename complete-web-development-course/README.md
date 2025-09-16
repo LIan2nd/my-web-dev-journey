@@ -17,7 +17,7 @@ Kursus ini adalah bootcamp pengembangan web lengkap yang mencakup semua teknolog
 
 | Section / Modul | Status | Catatan (Notes) | Proyek / Latihan Penting |
 | :--- | :---: | :--- | :--- |
-| **Section 17: Projects in JS** | ⬜️ | [Lihat Catatan](./section-17-projects-in-js/) | - |
+| **Section 17: Projects in JS** | ✅ | [Lihat Catatan](./section-17-projects-in-js/) | [Projects](https://github.com/LIan2nd/javascript-projects-fromjournal) |
 
 *Status: ✅ Selesai | ▶️ Sedang Dikerjakan | ⬜️ Belum Dimulai*
 
