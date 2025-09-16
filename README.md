@@ -1,6 +1,6 @@
 # My Web Development Learning Journey
 
-Hii, ini adalah dokumentasi perjalanan belajar saya! Repositori ini berfungsi sebagai catatan, rangkuman, dan peta jalan saya dalam menguasai berbagai teknologi pengembangan web melalui.
+Hii, there! ini adalah dokumentasi perjalanan belajar saya☕ Repositori ini berfungsi sebagai catatan, dan jejak saya dalam mempelajari pemrograman.
 
 ---
 
