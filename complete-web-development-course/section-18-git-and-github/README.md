@@ -57,7 +57,7 @@ Perintahnya :
 ```bash
 git remote add origin <URL_REPO>
 ```
-**Fun Fact, baru tau ternyata "origin" adalah nama dari remote nya itu.* Jadi pada *basicaly* Kita bisa ganti origin itu dengan nama yang Kita inginkan.
+**Fun Fact, baru tau ternyata "origin" adalah nama dari remote nya itu.* Jadi *basicaly* Kita bisa ganti origin itu dengan nama yang Kita inginkan.
 Contoh lengkap remote : 
 ```bash
 git remote add origin https://github.com/LIan2nd/my-web-dev-journey.git
