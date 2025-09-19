@@ -81,5 +81,6 @@ git commit -m "Initial commit"
 git branch -M main
 git remote add origin https://github.com/LIan2nd/my-web-dev-journey.git
 git push -u origin main
-
 ```
+
+Adapun untuk *Commit Guide*, Aku sudah tanyakan ke gemini untukku di masa depan, bisa dilihat [di sini](./COMMIT_GUIDE.md)
